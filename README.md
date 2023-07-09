@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeff-331
 - 👀 I’m interested in ... Learn more about the world of programming, and I would be very grateful to receive help from other friends.
 
-- 🌱 I’m currently learning ... Como programar, basicamente do zero.
+- 🌱 I’m currently learning ... How to program, basically from scratch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jeff.flour@gmail.com
 
