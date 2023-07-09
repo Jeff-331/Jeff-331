@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jeff-331
 - 👀 I’m interested in ... Learn more about the world of programming, and I would be very grateful to receive help from other friends.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Como programar, basicamente do zero.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... jeff.flour@gmail.com
 
 <!---
 Jeff-331/Jeff-331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
